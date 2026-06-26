@@ -18,7 +18,7 @@ Voice agents, self-improving web, and pipelines that ship without me.
 
 ## About
 
-Founder-engineer based in Jaipur, India. I build systems that run on their own: AI voice receptionists answering real phones for Jaipur clinics, a portfolio that rewrites and redeploys itself nightly, and content pipelines that post without me. Right now I am building a $0/min, pure-Python voice stack to run those agents at zero marginal cost.
+Founder-engineer based in Delhi, India. I build systems that run on their own: AI voice receptionists for dental clinics, a portfolio that rewrites and redeploys itself nightly, and content pipelines that post without me. Right now I am building a $0/min, pure-Python voice stack to run those agents at zero marginal cost.
 
 Ethos: ship it, then make it learn. Every claim on this profile links to the code.
 
