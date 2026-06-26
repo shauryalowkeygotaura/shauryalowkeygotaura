@@ -109,17 +109,16 @@ shaur = {
 
 ---
 
-## 📡 Daily Pulse
+## 📡 Currently
 
 <div align="center">
 
-<!--PULSE:START-->
-**Monday, 08 Jun 2026** &nbsp;•&nbsp; Day 159 of 2026 &nbsp;•&nbsp; focus: self-learning web
+**Live:** AI voice receptionists answering real phones for Jaipur clinics.
+**Building:** a $0/min, pure-Python voice stack to run them, plus a portfolio that rewrites & redeploys itself nightly.
 
 > _Ship it, then make it learn._
 
-![Building](https://img.shields.io/badge/status-building%20autonomous%20systems-6366f1?style=flat-square)
-<!--PULSE:END-->
+![Status](https://img.shields.io/badge/status-shipping%20autonomous%20systems-6366f1?style=flat-square)
 
 </div>
 
